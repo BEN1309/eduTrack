@@ -1,0 +1,2 @@
+USE edutrack;
+SHOW TABLES;
